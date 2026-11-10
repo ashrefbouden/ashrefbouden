@@ -5,7 +5,7 @@
 <h3 align="center">Full-Stack Software Engineer from Tunisia 🇹🇳 · PHP/Laravel · React · TypeScript · Java/Spring Boot</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ashref-bouden"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ashref-bouden-321842159"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:ashrefbouden@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://openwaycons.com"><img src="https://img.shields.io/badge/Live%20project-openwaycons.com-1A5C38" alt="openwaycons.com" /></a>
 </p>
@@ -14,10 +14,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="🤓" width="28" height="28" /> About Me
 
-I'm finishing my **National Engineering Degree in Software Engineering at ESPRIT** (2026), after four internships. I like owning a product end to end: modelling the data, designing the API, building the UI, testing it and shipping it to production.
+I hold a **National Engineering Degree in Software Engineering from ESPRIT** (2026, distinction *Très bien*), after four internships. I like owning a product end to end: modelling the data, designing the API, building the UI, testing it and shipping it to production.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" height="20" /> Sole developer of a **CRM now live in production** at [openwaycons.com](https://openwaycons.com)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="20" height="20" /> Engineering degree at **ESPRIT** (expected 2026) · Bachelor's in Computer Science, ISIM Monastir (2023)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="20" height="20" /> Engineering degree, **ESPRIT** (2026, *Très bien*) · Bachelor's in Computer Science, ISIM Monastir (2023)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="20" height="20" /> **Open to full-stack software engineering roles** · happy to collaborate on open source
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="🌍" width="20" height="20" /> Arabic (native) · French (fluent) · English (fluent)
 
@@ -25,14 +25,14 @@ I'm finishing my **National Engineering Degree in Software Engineering at ESPRIT
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="28" height="28" /> Featured Work: OpenWay Cons CRM
 
-*End-of-studies internship · Feb 2026 to Aug 2026 · [openwaycons.com](https://openwaycons.com)*
+*End-of-studies internship · Feb 2026 to Aug 2026 · [openwaycons.com](https://openwaycons.com) · **[Read the full case study →](https://github.com/ashrefbouden/openway-crm-case-study)***
 
 Designed and built, as the **sole developer**, the CRM that replaced a student-admissions agency's Excel workbook.
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="20" height="20" /> **Laravel 12 REST API** (nearly 200 endpoints) + **React 19 / TypeScript** SPA serving two isolated portals, for staff and for students
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="⚙️" width="20" height="20" /> **Laravel 12 REST API** (210 API routes) + **React 19 / TypeScript** SPA serving two isolated portals, for staff and for students
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="20" height="20" /> The 7-phase admissions workflow modelled as a **dependency graph**: the transition engine rejects premature steps and audits every manual override
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="20" height="20" /> Document management, encrypted credential vault, messaging, automated email reminders, dashboards and an accounting module separating agency fees from pass-through costs
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="🛡️" width="20" height="20" /> Token auth per portal, role-based access control, rate limiting; **530+ automated tests** (PHPUnit, Vitest, Playwright) in GitHub Actions; OWASP ZAP scan with no high or medium alert
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" alt="🛡️" width="20" height="20" /> Token auth per portal, role-based access control, rate limiting; **649 automated tests** (PHPUnit, Vitest, Playwright) in GitHub Actions; OWASP ZAP scan with no high or medium alert
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" alt="⚡" width="20" height="20" /> Deployed with **Docker Compose** on a Linux VPS behind Caddy (TLS), nightly backups, real client records migrated into the live system
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="🤖" width="20" height="20" /> **LLM assistants** (Groq API) with personal-data pseudonymization, and a student portal in 4 languages including right-to-left Arabic
 
@@ -60,7 +60,7 @@ Clean, maintainable code • RESTful API design • Data modelling • Security 
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="🤝" width="28" height="28" /> Connect With Me
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashref.bouden) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashref_bouden) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashref-bouden) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17088693) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrefbouden@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ashref.bouden) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashref_bouden) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashref-bouden-321842159) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/17088693) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashrefbouden@gmail.com)
 
 ---
 
