@@ -14,10 +14,10 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="🤓" width="28" height="28" /> About Me
 
-I hold a **National Engineering Degree in Software Engineering from ESPRIT** (2026, distinction *Très bien*), after four internships. I like owning a product end to end: modelling the data, designing the API, building the UI, testing it and shipping it to production.
+I hold a **National Engineering Degree in Software Engineering from ESPRIT** (2026, with high honors), after four internships. I like owning a product end to end: modelling the data, designing the API, building the UI, testing it and shipping it to production.
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="20" height="20" /> Sole developer of a **CRM now live in production** at [openwaycons.com](https://openwaycons.com)
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="20" height="20" /> Engineering degree, **ESPRIT** (2026, *Très bien*) · Bachelor's in Computer Science, ISIM Monastir (2023)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="🎓" width="20" height="20" /> Engineering degree, **ESPRIT** (2026, high honors) · Bachelor's in Computer Science, ISIM Monastir (2023)
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="20" height="20" /> **Open to full-stack software engineering roles** · happy to collaborate on open source
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="🌍" width="20" height="20" /> Arabic (native) · French (fluent) · English (fluent)
 
